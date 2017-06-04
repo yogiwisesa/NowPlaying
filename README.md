@@ -1,6 +1,6 @@
 # Now Playing
 
-![Alt text](/device-2017-06-04-175059.png?raw=true)
+![Alt text](/device-2017-06-04-175059.png?raw=true =250x)
 
 An application that i wrote with React Native for fetching data from TMDB.
 All data provided by TMDB, more info about TMDB and API KEY: https://www.themoviedb.org/
